@@ -1,4 +1,4 @@
-let API_URL = "https://frontend-monster-iota.vercel.app/"
+let API_URL = "https://frontend-monster-iota.vercel.app"
 
 const GetButton = (buttonid) =>{
     fetch(`${API_URL}/button`)
