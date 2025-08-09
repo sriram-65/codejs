@@ -7,4 +7,5 @@ const GetButton = (buttonid , text="button" , font="monospace" , fontsize="18" ,
         document.getElementById(buttonid).innerHTML = data
         document.getElementById("text-content-button").innerText = text
     })
+    console.lof("....hi")
 }
